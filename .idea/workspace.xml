@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="137020c5-5c31-4d77-8aca-bbc32f5b077d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/Exercise16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter5/Exercise9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkjava.iml" afterDir="false" />
-    </list>
+    <list default="true" id="137020c5-5c31-4d77-8aca-bbc32f5b077d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -132,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="722" />
     <option name="width" value="718" />
     <option name="height" value="900" />
@@ -321,6 +309,14 @@
       <option name="presentableId" value="Default" />
       <updated>1524458537657</updated>
     </task>
+    <task id="LOCAL-00001" summary="upload by mac in 2018.05.02">
+      <created>1525230494818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525230494818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -356,6 +352,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload by mac in 2018.05.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload by mac in 2018.05.02" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/chapter5/Exercise1.java">
